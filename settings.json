@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Ilse",
+    "username": "TheJester",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "islandscolabsmp.play.hosting",
+    "ip": "circusplayground.play.hosting",
     "port": 25565,
     "version": "1.21.1"
   },
